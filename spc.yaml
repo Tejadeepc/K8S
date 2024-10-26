@@ -8,7 +8,7 @@ metadata:
 spec:
   containers:
     - name: spc
-      image: shaikkhajaibrahim/spcjan2024:1.0shaikkhajaibrahim/spcjan2024:1.0
+      image: shaikkhajaibrahim/spcjan2024:1.0
       ports:
         - containerPort: 8080
           protocol: TCP
