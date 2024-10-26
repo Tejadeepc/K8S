@@ -11,5 +11,5 @@ spec:
     - name: spcapp
       image: nginx:1.27
       ports:
-        - containerPort: 8080
-          protocol: TCP
+        - containerPort: 80
+    
