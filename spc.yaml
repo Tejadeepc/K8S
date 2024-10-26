@@ -9,7 +9,7 @@ metadata:
 spec:
   containers:
     - name: spcapp
-      image: shaikkhajaibrahim/spcjan2024:1.0
+      image: nginx:1.27
       ports:
         - containerPort: 8080
           protocol: TCP
