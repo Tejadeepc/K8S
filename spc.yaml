@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Pod
 metadata:
-  name: spc
+  name: spc1
   labels:
     env: dev
     app: spc
